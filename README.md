@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web applications for educational purposes. This year, I'm learning. Net, Angular, and spring boot for full stack development. 
+I'm currently working on web/desktop applications for educational purposes. This year, I'm learning. Net, Angular, and spring boot for full stack development. 
 
 
 ## 🌐 Socials:
