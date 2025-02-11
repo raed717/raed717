@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software architect engineer student with expertise in various programming languages and frameworks.
+Software architect engineer with expertise in various programming languages and frameworks.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raed_guembri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raed-guembri-664528208/) 
